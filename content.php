@@ -58,5 +58,5 @@
         echo "wrsqu";
         echo "doaon";
         echo "imato";
-        echo "myhst";
+        echo "slont";
 ?>
