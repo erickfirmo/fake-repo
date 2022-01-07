@@ -55,4 +55,5 @@
         echo "statp";
         echo "gduvk";
         echo "jkmec";
+        echo "wrsqu";
 ?>
