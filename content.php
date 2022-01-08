@@ -57,5 +57,4 @@
         echo "jkmec";
         echo "wrsqu";
         echo "doaon";
-        echo "imato";
 ?>
