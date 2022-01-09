@@ -55,4 +55,5 @@
         echo "statp";
         echo "gduvk";
         echo "ttyme";
+        echo "yosny";
 ?>
