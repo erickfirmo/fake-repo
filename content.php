@@ -62,5 +62,4 @@
         echo "jpowt";
         echo "jouvo";
         echo "kluis";
-        echo "gmtvl";
 ?>
