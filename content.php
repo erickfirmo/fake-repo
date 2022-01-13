@@ -61,5 +61,4 @@
         echo "ovtem";
         echo "jpowt";
         echo "jouvo";
-        echo "kluis";
 ?>
