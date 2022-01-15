@@ -68,5 +68,4 @@
         echo "enpps";
         echo "uwddh";
         echo "gjwfr";
-        echo "gnunr";
 ?>
