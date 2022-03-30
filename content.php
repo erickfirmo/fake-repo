@@ -176,5 +176,4 @@
         echo "luyae";
         echo "lweew";
         echo "nktdy";
-        echo "rxcuk";
 ?>
