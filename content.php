@@ -216,5 +216,4 @@
         echo "okryb";
         echo "ofkqe";
         echo "amixf";
-        echo "bqvrk";
 ?>
