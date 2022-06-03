@@ -230,4 +230,5 @@
         echo "chifm";
         echo "movqs";
         echo "wvndf";
+        echo "hcnrh";
 ?>
