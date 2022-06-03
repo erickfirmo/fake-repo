@@ -228,4 +228,5 @@
         echo "idbcp";
         echo "bomgm";
         echo "chifm";
+        echo "movqs";
 ?>
