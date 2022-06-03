@@ -230,5 +230,5 @@
         echo "chifm";
         echo "movqs";
         echo "wvndf";
-        echo "ppdmf";
+        echo "irrmw";
 ?>
